@@ -8,9 +8,9 @@ Then
 
 ### `npm start`
 
-Published
+# Published Project Web
 
-# https://fthaltin.github.io/react-game-platform/
+# https://ceylanikoc.github.io/game-platform-react-deploy/
 
 ## Available Scripts
 
