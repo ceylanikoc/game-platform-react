@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Game Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the project directory, you can run:
+
+### `npm install`
+
+Then
+
+### `npm start`
 
 ## Available Scripts
 
