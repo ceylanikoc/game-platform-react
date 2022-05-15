@@ -1,0 +1,49 @@
+// Colors
+$dark-grey: #1e1e1e;
+$green: #76b900;
+$white: #ffffff;
+$black: #000000;
+$text: #afafaf;
+
+$xxxs : 374;
+$xxs : 424;
+$xs : 575;
+$sm : 767;
+$md : 991;
+$lg : 1199;
+$xlg : 1441;
+$xxlg : 1681;
+$gutter: 10px;
+
+
+@mixin max($breakpoint) {
+	@media (max-width: $breakpoint + px) {
+		@content;
+	}
+}
+
+@mixin min($breakpoint) {
+	@media (min-width: ($breakpoint + 1) + px) {
+		@content;
+	}
+}
+
+@mixin placeholder {
+    &::-webkit-input-placeholder {@content}
+    &:-moz-placeholder           {@content}
+    &::-moz-placeholder          {@content}
+    &:-ms-input-placeholder      {@content}
+}
+
+.container {
+	padding-right: $gutter;
+	padding-left: $gutter;
+	@include min($lg) {
+		max-width: 1200px + $gutter*2;
+    }
+}
+
+.container {
+	padding-right: $gutter;
+	padding-left: $gutter;
+}
