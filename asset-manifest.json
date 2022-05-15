@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/game-platform-react-deploy/static/css/main.533dd25e.css",
+    "main.js": "/game-platform-react-deploy/static/js/main.affe574f.js",
+    "static/js/787.ea3bc3cd.chunk.js": "/game-platform-react-deploy/static/js/787.ea3bc3cd.chunk.js",
+    "static/media/bg.png": "/game-platform-react-deploy/static/media/bg.03c116638394ae2ad3b4.png",
+    "static/media/logo.png": "/game-platform-react-deploy/static/media/logo.6a0dd85e8e6a2dc95405.png",
+    "static/media/arrow-down.svg": "/game-platform-react-deploy/static/media/arrow-down.ee3745334399fe4dc44a49010406ee6d.svg",
+    "static/media/arrow-up.svg": "/game-platform-react-deploy/static/media/arrow-up.67ecf2d2889e3a67338bfb83746e1fe0.svg",
+    "static/media/icon-arrow-select.svg": "/game-platform-react-deploy/static/media/icon-arrow-select.7e799d5cfd79ceaf52d3.svg",
+    "static/media/times.svg": "/game-platform-react-deploy/static/media/times.6b73ede76dce455938fcdfcb3e2b0b9c.svg",
+    "index.html": "/game-platform-react-deploy/index.html",
+    "static/media/search.svg": "/game-platform-react-deploy/static/media/search.8b76ab43f581baff23f262d449ddb5b4.svg",
+    "main.533dd25e.css.map": "/game-platform-react-deploy/static/css/main.533dd25e.css.map",
+    "main.affe574f.js.map": "/game-platform-react-deploy/static/js/main.affe574f.js.map",
+    "787.ea3bc3cd.chunk.js.map": "/game-platform-react-deploy/static/js/787.ea3bc3cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.533dd25e.css",
+    "static/js/main.affe574f.js"
+  ]
+}
