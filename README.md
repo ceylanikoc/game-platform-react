@@ -8,6 +8,10 @@ Then
 
 ### `npm start`
 
+Published
+
+# https://fthaltin.github.io/react-game-platform/
+
 ## Available Scripts
 
 In the project directory, you can run:
